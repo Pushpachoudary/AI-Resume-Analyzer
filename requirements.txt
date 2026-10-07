@@ -1,0 +1,8 @@
+pymupdf
+sentence-transformers
+scikit-learn
+mysql-connector-python
+streamlit
+python-dotenv
+torch
+torchvision
